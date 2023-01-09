@@ -10,6 +10,7 @@ const Main = () => {
             <div className='content'>
                 <h1>Beards & Briskets</h1>
                 <p>About to set Northern Virginia ABLAZE!</p>
+                
             </div>
         </div>
     )
