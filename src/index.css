@@ -41,11 +41,11 @@ video {
 }
 
 h1 {
-  font-size: 7rem;
+  font-size: 10vw;
   text-transform: uppercase;
 }
 
 
 .content>p {
-  font-size: 2rem;
+  font-size: 3vw;
 }
