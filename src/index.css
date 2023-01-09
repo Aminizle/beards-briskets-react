@@ -39,3 +39,11 @@ video{
   z-index: 1;
   background-color: rgba(0,0,0,.6);
 }
+
+h1 {
+  font-size: 7rem;
+}
+
+.content>p{
+  font-size: 2rem;
+}
