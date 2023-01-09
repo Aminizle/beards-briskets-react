@@ -8,7 +8,7 @@ const Main = () => {
 
             <video src={backgroundVideo} autoPlay loop muted/>
             <div className='content'>
-                <h1>Beards & Barbeque</h1>
+                <h1>Beards & Briskets</h1>
                 <p>About to set Northern Virginia ABLAZE!</p>
             </div>
         </div>
