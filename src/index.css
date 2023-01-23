@@ -49,4 +49,8 @@ h1 {
   font-size: 3vw;
 }
 
-/* this is a test */
+.img {
+  height: 50%;
+  margin-bottom: 3rem;
+ padding: 0;
+}
