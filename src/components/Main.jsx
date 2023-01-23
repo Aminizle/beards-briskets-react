@@ -10,7 +10,7 @@ const Main = () => {
       <video src={backgroundVideo} autoPlay loop muted />
 
       <div className="content">
-        <img src={logo} className="img" />
+        <img src={logo} className="img" alt="logo"/>
         <p>About to set Northern Virginia ABLAZE!</p>
       </div>
     </div>
